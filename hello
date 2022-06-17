@@ -1,8 +1,12 @@
-Hello World!
+# First version control file
+
+## Text selection
 
 *Курсив.*
 
 **Полужирный.**
+
+## Lists
 
 *1
 *2
@@ -11,5 +15,3 @@ Hello World!
 1. First
 2. Second
 3. Third
-
-Начинаем наше знакомство с контролем версий.
